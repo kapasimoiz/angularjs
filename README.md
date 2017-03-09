@@ -12,8 +12,6 @@ Project, samnple code etc.
 Go through the following links
 
 
-[Angulas JS high level architecture](https://angular.io/docs/ts/latest/guide/architecture.html)
-
 [Developer guide](https://docs.angularjs.org/guide)
 
 [Tutorial](https://docs.angularjs.org/tutorial)
