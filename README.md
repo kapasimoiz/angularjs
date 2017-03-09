@@ -2,7 +2,7 @@
 Angular JS Repo
 
 This readme contains the learning path.
-Project, samnple code etc will be committed to this repo.
+Project, samnple code etc.
 
 *Can have MaterialJS content too if Nitin adds his stuff. He will also need to add in the below learning path*
 
@@ -26,6 +26,4 @@ Complete [Angular 1.x JS Course](https://www.codeschool.com/courses/shaping-up-w
 
 
 Learn the diff and new features in 2.x - _Todo for material_
-
-
 
