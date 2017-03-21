@@ -16,6 +16,7 @@ Go through the following links
 
 [Tutorial](https://docs.angularjs.org/tutorial)
 
+[Videos](https://docs.angularjs.org/misc/started)
 
 
 <br>
